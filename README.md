@@ -1,4 +1,7 @@
+
 # Methodology and Implementation
+
+[![Python version 3.9](https://img.shields.io/badge/python-v3.9-brightgreen)](https://docs.python.org/3/whatsnew/3.9.html)
 
 This section delves into the methodology and implementation aspects of our project, primarily focusing on the preparation of the initial state of an entangled system shared between parties A and B. Subsequently, we analyze the evolution of this system under the influence of different quantum channels. 
 
